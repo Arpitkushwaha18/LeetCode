@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0263-ugly-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
