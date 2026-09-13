@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
