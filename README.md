@@ -117,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
