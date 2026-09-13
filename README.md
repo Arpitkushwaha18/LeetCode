@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Prefix Sum
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
