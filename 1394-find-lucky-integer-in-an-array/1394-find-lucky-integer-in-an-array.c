@@ -12,6 +12,9 @@ int findLucky(int* arr, int arrSize) {
         }
 
     }
+
+
+    
     if(max==0){
         return -1;
     }
