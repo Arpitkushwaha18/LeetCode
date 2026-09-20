@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
