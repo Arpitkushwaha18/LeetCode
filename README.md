@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -146,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
