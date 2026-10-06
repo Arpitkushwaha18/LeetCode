@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Simulation
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
@@ -175,5 +179,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
