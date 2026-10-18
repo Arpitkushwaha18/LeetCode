@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0657-robot-return-to-origin) |
