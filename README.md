@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0401-binary-watch) |
