@@ -6,20 +6,16 @@ int firstBadVersion(int n) {
     long long l =1;
     
     
-    while(l<=h){
+    while(l<h){
         long long mid = (l+h)/2;
-        if(isBadVersion(mid)==true&&isBadVersion(mid-1)==false){
-            return mid;
-        }
-        else if(isBadVersion(mid)==false){
-            l=mid+1;
-
-        }
-        else{
-            h= mid-1;
+        if(isBadVersion(mid)){
+            h= mid;}
+            else{
+            
+        l = mid+1;
 
         }
     }
-    return 0;
+    return l;
     
 }
