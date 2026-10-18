@@ -32,38 +32,39 @@ char** readBinaryWatch(int turnedOn, int* returnSize) {
             int c2 = binary(j);
             if((c1+c2)==turnedOn){
                 arr[k] = malloc(6 * sizeof(char));
+                snprintf(arr[k],6,"%d:%02d",i,j);
             
-                if(i>=10){
-                arr[k][0]= (char)(i/10+'0');
-                arr[k][1]= (char)(i%10+'0');
-                arr[k][2]=':';
-                if(j<10){
-                    arr[k][3]='0';
-                    arr[k][4]=(char)(j+'0');
-                    arr[k][5]='\0';
-                }
-                else{
-                    arr[k][3]= (char)(j/10+'0');
-                    arr[k][4]= (char)(j%10+'0');
-                    arr[k][5]='\0';
+    //        if(i>=10){
+    //        arr[k][0]= (char)(i/10+'0');
+    //        arr[k][1]= (char)(i%10+'0');
+    //        arr[k][2]=':';
+    //        if(j<10){
+    //            arr[k][3]='0';
+    //            arr[k][4]=(char)(j+'0');
+    //            arr[k][5]='\0';
+    //        }
+    //        else{
+    //            arr[k][3]= (char)(j/10+'0');
+    //            arr[k][4]= (char)(j%10+'0');
+    //            arr[k][5]='\0';
 
-                }
-            }
-            else{
-                arr[k][0]= (char)(i+'0');
-                arr[k][1]=':';
-                if(j<10){
-                    arr[k][2]='0';
-                    arr[k][3]=(char)(j+'0');
-                    arr[k][4]='\0';
-                }
-                else{
-                    arr[k][2]= (char)(j/10+'0');
-                    arr[k][3]= (char)(j%10+'0');
-                    arr[k][4]='\0';
+    //        }
+    //    
+    //    else{
+    //        arr[k][0]= (char)(i+'0');
+    //        arr[k][1]=':';
+    //        if(j<10){
+    //            arr[k][2]='0';
+    //            arr[k][3]=(char)(j+'0');
+    //            arr[k][4]='\0';
+    //        }
+    //        else{
+    //            arr[k][2]= (char)(j/10+'0');
+    //            arr[k][3]= (char)(j%10+'0');
+    //            arr[k][4]='\0';
 
-                }
-            }
+    //        }
+    //    }
             k++;
             
 
