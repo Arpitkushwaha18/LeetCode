@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0645-set-mismatch) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0482-license-key-formatting) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Simulation
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
