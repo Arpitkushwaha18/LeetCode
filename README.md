@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0476-number-complement) |
