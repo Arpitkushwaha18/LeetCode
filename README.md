@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1694-reformat-phone-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1694-reformat-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
