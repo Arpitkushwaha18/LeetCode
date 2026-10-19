@@ -7,15 +7,14 @@ bool canConstruct(char* ransomNote, char* magazine) {
     for(int i =0;ransomNote[i]!='\0';i++){
         
             freq[ransomNote[i]-97]--;
-        
-        
-    }
-    for(int i =0;ransomNote[i]!='\0';i++){
-        if(freq[(ransomNote[i]-97)]<0){
+            if (freq[ransomNote[i] - 97] < 0) {
             return false;
-        
         }
+        
+        
     }
+    
+    
 
     return true;
 
