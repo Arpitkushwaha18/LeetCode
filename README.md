@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0867-transpose-matrix](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Stack
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
