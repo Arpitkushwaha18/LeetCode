@@ -1,7 +1,5 @@
 bool isPalindrome(char* s) {
-    if(s==NULL){
-        return NULL;
-    }
+    
     int m = strlen(s);
     int k=0;
    char  *arr=malloc((m+1)*sizeof(char));
