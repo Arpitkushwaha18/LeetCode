@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2652-sum-multiples) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
