@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
