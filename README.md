@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0832-flipping-an-image) |
