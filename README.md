@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
