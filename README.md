@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1816-truncate-sentence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
@@ -350,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
