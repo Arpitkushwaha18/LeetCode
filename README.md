@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1694-reformat-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1816-truncate-sentence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
