@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0011-container-with-most-water) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
 | ------- |
