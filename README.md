@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
