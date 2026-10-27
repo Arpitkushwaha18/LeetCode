@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Tree
 |  |
 | ------- |
