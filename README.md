@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1816-truncate-sentence) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Counting Sort
 |  |
 | ------- |
