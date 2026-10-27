@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
