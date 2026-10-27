@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Arpitkushwaha18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arpitkushwaha18/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Arpitkushwaha18/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
